@@ -111,7 +111,7 @@
 cd Finrobot
 pip install -r requirements.txt
 
-```bash
+#Run Command
 cd api
 python app.py
 
