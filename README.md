@@ -115,10 +115,3 @@ pip install -r requirements.txt
 cd api
 python app.py
 
-
----
-
-## Future Enhancements
-- Expand AI agent capabilities for deeper market analysis.  
-- Incorporate additional data sources for enriched predictions.  
-- Improve latency further for near-instant responses.  
