@@ -37,14 +37,12 @@
 
 ## Solution Approach
 
-### Step 1: Stakeholder Engagement  
-   - Conducted in-depth discussions with traders and data engineers to align on pain points and solutions.
 
-### Step 2: System Design  
+### Step 1: System Design  
    - Built a robust data pipeline for ingesting and organizing historical and real-time data.  
    - Developed a scalable prediction model to detect both expected and unexpected price spikes.
 
-### Step 3: Model Deployment  
+### Step 2: Model Deployment  
    - Implemented DBSCAN clustering for pattern recognition.  
    - Integrated AI agents to dynamically recalibrate predictions based on live data.
 
@@ -52,7 +50,8 @@
 
 ## System Architecture
 
-![System Architecture](path/to/first-image.png)
+![image](https://github.com/user-attachments/assets/ef1b6f83-8f8a-426b-bce4-f1936ab1248e)
+
 
 **How it Works:**  
 1. The user (Desk Head) triggers AI agents based on prompts or events.  
@@ -62,8 +61,8 @@
 ---
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/4d2b7b8c-967c-4438-a36f-379043f70fe6)
 
-![DeskHead Chat](path/to/second-image.png)
 
 ---
 
