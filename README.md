@@ -106,12 +106,12 @@
 - MongoDB
 - Kafka
 
-### Commands to Install AI
+### Commands to Install And Run Chatbot:
 ```bash
 cd Finrobot
 pip install -r requirements.txt
 
-### Commands to Run
+```bash
 cd api
 python app.py
 
