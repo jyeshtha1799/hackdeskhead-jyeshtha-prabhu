@@ -93,17 +93,28 @@
 ## Tools and Technologies
 - **Data Storage:** MongoDB, SQLite  
 - **Real-Time Processing:** Kafka  
-- **Machine Learning:** DBSCAN Clustering, YFinance API  
+- **Machine Learning:** DBSCAN Clustering, YFinance API, PolygonAPI, FinnHub Utils.
 - **Programming Languages:** Python  
 - **Visualization:** Custom-built interactive interfaces  
 
 ---
 
-## How to Run the System
-1. Set up Kafka for real-time data streaming.  
-2. Configure MongoDB for historical data storage.  
-3. Run the prediction model using Python and DBSCAN clustering.  
-4. Deploy AI agents to provide actionable insights in real time.  
+## Installation and Setup
+
+### Prerequisites
+- Python 3.7 or later
+- MongoDB
+- Kafka
+
+### Commands to Install AI
+```bash
+cd Finrobot
+pip install -r requirements.txt
+
+**### Commands to Run:**
+cd api
+python app.py
+
 
 ---
 
